@@ -12,7 +12,7 @@ main = do interact $ isPrimeMessage . abs . read
 
 isPrimeMessage x = (if isPrime x then "yes" else "no") ++ "\n"
 
-isPrime x = x `isDivisibleByGreaterThan` 2
+isPrime = `isDivisibleByGreaterThan` 2
 
 -- Whether x is divisible by any number greater than div
 isDivisibleByGreaterThan x div
