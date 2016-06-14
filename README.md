@@ -1,4 +1,4 @@
-= Index =
+# Index
 
 * `difference` - Computer difference between 2 integers
 * `factorial` - Compute `n!` for a given `n`
