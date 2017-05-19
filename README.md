@@ -1,4 +1,9 @@
-# Index
+# List of languages references
+
+* [Ocaml](https://github.com/kunigami/language-exercises/wiki/Ocaml-Cheat-Sheet)
+* [R](https://github.com/kunigami/language-exercises/wiki/R-Cheat-sheet)
+
+# Index of exercises
 
 * `difference` - Computer difference between 2 integers
 * `factorial` - Compute `n!` for a given `n`
