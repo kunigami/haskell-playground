@@ -2,6 +2,7 @@
 
 * [Ocaml](https://github.com/kunigami/language-exercises/wiki/Ocaml-Cheat-Sheet)
 * [R](https://github.com/kunigami/language-exercises/wiki/R-Cheat-sheet)
+* [Rust](https://github.com/kunigami/language-exercises/wiki/Rust-Cheat-Sheet)
 
 # Index of exercises
 
